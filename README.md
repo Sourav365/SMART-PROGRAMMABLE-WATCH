@@ -6,6 +6,11 @@ It is a smart watch based on ESP8266-01, ESP8266-12F, ESP-32
 ## Working Video
 
 
+https://www.youtube.com/watch?v=znPHJPHS4tw
+
+https://user-images.githubusercontent.com/49667585/236110630-2d9a84c7-e070-4559-bae8-fa3194e78ee4.mp4
+
+
 
 ## PCB Image
 
