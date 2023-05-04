@@ -1,2 +1,2 @@
 # SMART-PROGRAMMABLE-WATCH
-It is a smart watch based on ESP8266-01
+It is a smart watch based on ESP8266-01, ESP8266-12F, ESP-32
